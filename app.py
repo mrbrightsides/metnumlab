@@ -52,12 +52,12 @@ with st.sidebar:
     12. [Cloud Carbon Footprint Tracker](https://rantai-greencloud.streamlit.app/)
     13. [Cloud.Climate.Chain](https://rantai-3c.streamlit.app/)
     14. [Smart Atlas For Environment](https://rantai-safe.streamlit.app/)
-    15. [Real-time Social Sentiment](https://rantai-rss.streamlit.app/) --> temporarily pending development
-    16. [OpenAPI](https://rantai-openapi.streamlit.app/) --> temporarily pending development
-    17. [Numerical Methods Lab](https://metnumlab.streamlit.app/) --> beta version
-    18. [Computational Analytics Studio](https://komnumlab.streamlit.app/) --> beta version
-    19. [BlockPedia](https://blockpedia.streamlit.app/)
-    20. [BlockBook](https://blockpedia.streamlit.app/) --> temporarily pending development
+    15. [Real-time Social Sentiment](https://rantai-rss.streamlit.app/) → temporarily pending development
+    16. [OpenAPI](https://rantai-openapi.streamlit.app/) → temporarily pending development
+    17. [Numerical Methods Lab](https://metnumlab.streamlit.app/) → beta version
+    18. [Computational Analytics Studio](https://komnumlab.streamlit.app/) → beta version
+    19. [BlockBook](https://blockpedia.streamlit.app/) → temporarily pending development
+    20. [BlockPedia](https://blockpedia.streamlit.app/)
     
     ---
     #### 🙌 Dukungan & kontributor
