@@ -54,8 +54,8 @@ with st.sidebar:
     14. [Smart Atlas For Environment](https://rantai-safe.streamlit.app/)
     15. [Real-time Social Sentiment](https://rantai-rss.streamlit.app/) --> temporarily pending development
     16. [OpenAPI](https://rantai-openapi.streamlit.app/) --> temporarily pending development
-    17. [Metode Numerik Lab](https://metnumlab.streamlit.app/) --> beta version
-    18. [Komputasi Numerik Lab](https://komnumlab.streamlit.app/) --> beta version
+    17. [Numerical Methods Lab](https://metnumlab.streamlit.app/) --> beta version
+    18. [Computational Analytics Studio](https://komnumlab.streamlit.app/) --> beta version
     19. [BlockPedia](https://blockpedia.streamlit.app/)
     20. [BlockBook](https://blockpedia.streamlit.app/) --> temporarily pending development
     
