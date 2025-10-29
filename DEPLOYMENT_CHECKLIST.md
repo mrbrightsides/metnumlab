@@ -137,7 +137,7 @@ git commit -m "chore: prepare for v1.0.0 release"
 
 # Create GitHub repository (via GitHub web interface)
 # Then add remote
-git remote add origin https://github.com/YOUR_USERNAME/rantai-metnumlab.git
+git remote add origin https://github.com/mrbrightsides/metnumlab.git
 
 # Push to GitHub
 git branch -M main
@@ -447,9 +447,9 @@ Jika semua checklist di atas sudah complete, RANTAI MetNumLab siap untuk go publ
 
 **Version**: 1.0.0
 
-**Date**: 2025-06-04
+**Date**: 2025-10-04
 
-**Deployed By**: [Your Name]
+**Deployed By**: [mrbrightsides]
 
 **Deployment URL**: [To be added after deployment]
 
