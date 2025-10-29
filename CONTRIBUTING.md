@@ -54,11 +54,11 @@ We are committed to providing a friendly, safe, and welcoming environment for al
 ```bash
 # Fork the repository on GitHub
 # Then clone your fork
-git clone https://github.com/YOUR_USERNAME/rantai-metnumlab.git
+git clone https://github.com/mrbrightsides/metnumlab.git
 cd rantai-metnumlab
 
 # Add upstream remote
-git remote add upstream https://github.com/ORIGINAL_OWNER/rantai-metnumlab.git
+git remote add upstream https://github.com/mrbrightsides/metnumlab.git
 ```
 
 ### Install Dependencies
@@ -641,7 +641,7 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 Feel free to reach out:
 - **Email**: dev@rantaimetnumlab.com
-- **Discord**: [Join server](https://discord.gg/rantaimetnumlab)
+- **Discord**: [Join server](https://discord.gg/metnumlab)
 - **GitHub**: Open an issue with `question` label
 
 ---
