@@ -19,7 +19,7 @@
 ### **Week 0: Setup (30 menit)**
 
 1. **Familiarize dengan Platform** ✅
-   - Buka platform: https://your-app-url.vercel.app
+   - Buka platform: [MetNumLab](https://metnumlab.elpeef.com/)
    - Explore semua 7 metode numerik
    - Coba Quick Start samples
    - Nonton 2-3 video tutorials
@@ -821,5 +821,5 @@ Platform ini adalah **alat**, bukan pengganti kamu sebagai dosen.
 
 ---
 
-*Last Updated: January 2025*
+*Last Updated: October 2025*
 *Version: 1.0*
