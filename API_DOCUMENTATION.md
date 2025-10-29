@@ -27,7 +27,7 @@ RANTAI MetNumLab menggunakan Next.js App Router untuk API routes. Semua endpoint
 ## Base URL
 
 **Development**: `http://localhost:3000`  
-**Production**: `https://your-domain.com`
+**Production**: `https://metnumlab.elpeef.com/`
 
 ---
 
@@ -465,7 +465,7 @@ interface Submission {
 import { createClient } from '@rantai-metnumlab/sdk';
 
 const client = createClient({
-  baseUrl: 'https://api.rantaimetnumlab.com',
+  baseUrl: 'https://api.metnumlab.elpeef.com',
   apiKey: 'your_api_key'
 });
 
@@ -495,7 +495,7 @@ const jobs = await client.jobs.list({ limit: 10 });
 from rantai_metnumlab import Client
 
 client = Client(
-    base_url='https://api.rantaimetnumlab.com',
+    base_url='https://api.metnumlab.elpeef.com',
     api_key='your_api_key'
 )
 
@@ -542,10 +542,10 @@ jobs = client.jobs.list(limit=10)
 
 For API support, please:
 - 📧 Email: api-support@rantaimetnumlab.com
-- 💬 Discord: [Join our server](https://discord.gg/rantaimetnumlab)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/rantai-metnumlab/issues)
+- 💬 Discord: [Join our server](https://discord.gg/metnumlab)
+- 🐛 Issues: [GitHub Issues](https://github.com/mrbrightsides/metnumlab/issues)
 
 ---
 
-**Last Updated**: June 4, 2025  
+**Last Updated**: Oktober 4, 2025  
 **API Version**: v1.0.0
