@@ -41,7 +41,7 @@ RANTAI MetNumLab adalah platform pembelajaran interaktif untuk metode numerik ya
 
 ### 1. Akses Platform
 
-Buka browser dan kunjungi: `https://rantaimetnumlab.com`
+Buka browser dan kunjungi: `https://metnumlab.elpeef.com`
 
 ### 2. Navigasi Dashboard
 
@@ -661,15 +661,13 @@ A: Belum. Request feature di GitHub Issues.
 ### 📧 Kontak
 
 - **Email**: support@rantaimetnumlab.com
-- **Discord**: [Join server](https://discord.gg/rantaimetnumlab)
-- **GitHub**: [Report issues](https://github.com/yourusername/rantai-metnumlab/issues)
+- **Discord**: [Join server](https://discord.gg/metnumlab)
+- **GitHub**: [Report issues](https://github.com/mrbrightsides/metnumlab/issues)
 
 ### 📚 Resources
 
-- **Documentation**: [docs.rantaimetnumlab.com](https://docs.rantaimetnumlab.com)
+- **Documentation**: [docs.rantaimetnumlab.com](https://metnumlab.elpeef.com)
 - **Video Tutorials**: Di dalam platform
-- **Blog**: [blog.rantaimetnumlab.com](https://blog.rantaimetnumlab.com)
-- **Community**: [community.rantaimetnumlab.com](https://community.rantaimetnumlab.com)
 
 ---
 
@@ -679,5 +677,5 @@ A: Belum. Request feature di GitHub Issues.
 
 ---
 
-**Last Updated**: June 4, 2025  
+**Last Updated**: October 4, 2025  
 **Version**: 1.0.0
