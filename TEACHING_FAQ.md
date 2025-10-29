@@ -302,7 +302,7 @@ Minimum requirements:
 **STEP 5: Contact Support**
 ```
 If still not working:
-- Email: support@rantai-metnumlab.com
+- Email: support@elpeef.com
 - Include: screenshot, error message, browser/device info
 - Response within 24 hours
 ```
@@ -568,7 +568,7 @@ Examples:
 - Build on top of platform (API)
 
 **Request Custom Features:**
-Email feature requests: features@rantai-metnumlab.com
+Email feature requests: features@elpeef.com
 Roadmap influenced by educator feedback!
 
 ---
@@ -606,7 +606,7 @@ Universities can partner for:
 - Training workshops
 - Co-branding
 
-Contact: partnerships@rantai-metnumlab.com
+Contact: partnerships@elpeef.com
 
 ---
 
@@ -686,7 +686,7 @@ Community can contribute translations!
 
 **Official Channels:**
 ```
-📧 Email: educators@rantai-metnumlab.com
+📧 Email: educators@elpeef.com
    - Direct support
    - Feature requests
    - Feedback
@@ -736,7 +736,7 @@ Help make platform better for everyone!
 
 **Bug Reports:**
 ```
-Email: bugs@rantai-metnumlab.com
+Email: bugs@elpeef.com
 Include:
 - What you were doing
 - What went wrong
@@ -746,7 +746,7 @@ Include:
 
 **Feature Requests:**
 ```
-Email: features@rantai-metnumlab.com
+Email: features@elpeef.com
 Describe:
 - What feature you want
 - Why it would be useful
@@ -756,7 +756,7 @@ Describe:
 
 **General Feedback:**
 ```
-Email: feedback@rantai-metnumlab.com
+Email: feedback@elpeef.com
 Tell us:
 - What you like
 - What could be better
@@ -850,21 +850,15 @@ Still have questions?
 - LESSON_PLANS_EXAMPLES.md - Ready-to-use lesson plans
 
 **💬 Contact Us:**
-- General: info@rantai-metnumlab.com
-- Technical: support@rantai-metnumlab.com
-- Teaching: educators@rantai-metnumlab.com
-- Partnerships: partnerships@rantai-metnumlab.com
+- General: info@elpeef.com
+- Technical: support@elpeef.com
+- Teaching: educators@elpeef.com
+- Partnerships: partnerships@elpeef.com
 
 **⏰ Response Time:**
 - Email: Within 24-48 hours
 - Forum: Community responds faster
 - Urgent issues: Mark as [URGENT] in subject
-
-**🌐 Online Resources:**
-- Website: [link]
-- Documentation: [link]
-- Video tutorials: [link]
-- Community forum: [link]
 
 ---
 
@@ -888,11 +882,11 @@ Let's inspire the next generation of engineers & scientists together! 💙
 ---
 
 **Have a question not answered here?**
-Email us: faq@rantai-metnumlab.com
+Email us: faq@elpeef.com
 We'll add it to this document!
 
 ---
 
-*Last Updated: January 2025*
+*Last Updated: October 2025*
 *Version: 1.0*
 *Contributions from educator community welcome!*
