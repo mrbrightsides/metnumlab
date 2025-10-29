@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.0] - 2025-06-04
+## [1.0.0] - 2025-10-04
 
 ### 🎉 Initial Public Release
 
@@ -172,7 +172,7 @@ This is the first stable release of RANTAI MetNumLab!
 
 ---
 
-## [0.9.0] - 2025-05-20 (Beta)
+## [0.9.0] - 2025-10-20 (Beta)
 
 ### Added
 - Beta release for testing
@@ -188,7 +188,7 @@ This is the first stable release of RANTAI MetNumLab!
 
 ---
 
-## [0.5.0] - 2025-04-15 (Alpha)
+## [0.5.0] - 2025-10-15 (Alpha)
 
 ### Added
 - Initial alpha release
@@ -316,4 +316,4 @@ Each release includes:
 
 ---
 
-*Last updated: 2025-06-04*
+*Last updated: 2025-10-04*
